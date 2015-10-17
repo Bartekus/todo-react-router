@@ -1,11 +1,11 @@
 React-Router ToDo App
 ======
 
-ToDo App using (**react-router**) combo and utilizing gulp workflow.
+ToDo App using (**react-router**) combo and utilizing firebase backend / gulp workflow.
 
 #### Screenshot
 
-![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-react-basic/master/todo-react-router.png "screenshot software")
+![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-react-router/master/todo-react-router.png "screenshot software")
 
 ## Synopsis
 
